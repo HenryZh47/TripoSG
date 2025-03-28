@@ -60,7 +60,7 @@ pip install -r requirements.txt
 
 Generate a 3D mesh from an image:
 ```bash
-python scripts/inference_triposg.py --image-input assets/example_data/hjswed.png
+PYTHON_PATH=/path/to/repo python scripts/inference_triposg.py --image-input assets/example_data/hjswed.png
 ```
 
 The required model weights will be automatically downloaded:

@@ -1,0 +1,5 @@
+*__pycache__
+pretrained_weights/*
+
+# output assets
+*.glb
